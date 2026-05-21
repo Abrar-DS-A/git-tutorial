@@ -3,6 +3,6 @@ The best ways are:-
 - EAT
 - CODE
 - SLEEP
-- REPEAT
+ REPEAT
 
 Thank you.
